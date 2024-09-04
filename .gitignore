@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.idea/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Text editor files
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Environment variables
+.env
+
+# PyInstaller
+*.manifest
+*.spec
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# LanguageTool temporary files
+.languagetool/
+
+# Translations
+*.mo
+*.pot
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# mypy
+.mypy_cache/
+
+# Other temporary files
+*.tmp
+*.temp
+
+# Pytest cache
+.pytest_cache/
+
+# Pillow-specific
+Pillow-*
+
+# Backup files
+*.bak
+*.backup

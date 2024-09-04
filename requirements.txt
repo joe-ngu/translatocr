@@ -1,0 +1,21 @@
+# image info extraction modules
+torch
+torchvision
+torchaudio
+easyocr
+
+# image processing/manipulation module
+Pillow
+
+# translation modules
+googletrans-py
+
+# spelling/grammar check module
+textblob
+language-tool-python
+
+# LLM module
+langchain-ollama
+
+# progress bar module
+tqdm
