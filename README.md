@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/joe-ngu/translatocr"><img src="https://raw.githubusercontent.com/joe-ngu/translatocr/main/assets/logo.png" alt="TranslatOCR" width="200"></a>
+  <a href="https://github.com/joe-ngu/translatocr"><img src="https://raw.githubusercontent.com/joe-ngu/translatocr/main/assets/logo.jpeg" alt="TranslatOCR" width="200"></a>
   <br>
   TranslatOCR
   <br>
@@ -59,7 +59,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Pyth
 $ git clone https://github.com/joe-ngu/translatocr.git
 
 # Navigate into the repository
-$ cd TranslatOCR
+$ cd translatocr
 
 # Create and activate a virtual environment (optional but recommended)
 $ python3 -m venv venv
